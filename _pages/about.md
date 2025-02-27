@@ -11,7 +11,7 @@ Hello! I am a Postdoctoral Research Fellow in the Engineering Product Developmen
 
 Research Goal
 ======
-To be completed
+My goal is to develop next-generation UAVs that are not only highly efficient, adaptive, and scalable but also sustainable. By harnessing __solar power__ and __wind energy__, I explore novel aerial designs that extend flight endurance and reduce reliance on conventional energy sources. My research integrates __bio-inspired flight mechanisms__, __energy-efficient propulsion__, and __underactuated control strategies__ to push the boundaries of autonomous and environmentally friendly aerial systems.
 
 Navigation
 ======
