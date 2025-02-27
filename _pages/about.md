@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: git-caixinyu.github.io
 title: "Cai Xinyu's Home Page"
 author_profile: true
 redirect_from: 
