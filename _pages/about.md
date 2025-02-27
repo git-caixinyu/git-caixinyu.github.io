@@ -17,7 +17,8 @@ Achievement
 ======
 My research has led to multiple publications in top-tier robotics and control conferences and journals. 
 I have developed aerial robotic platforms capable of scalability, adaptability, and transformability, enabling versatile operations across different flight conditions. 
-Additionally, my work on lightweight, nature-inspired monocopters explores novel flight control strategies for underactuated aerial systems. My contributions to aerial robotics have been recognized with the __Outstanding Dynamics and Control Paper Award (ICRA 2022)__, highlighting the impact of my research in scalable and reconfigurable UAV technologies.
+Additionally, my work on lightweight, nature-inspired monocopters explores advanced flight efficiency strategies for underactuated aerial systems, offering potential for sustainable flight by harnessing external energy sources such as solar power and wind. 
+My contributions to aerial robotics have been recognized with the __Outstanding Dynamics and Control Paper Award (ICRA 2022)__, highlighting the impact of my research in scalable and reconfigurable UAV technologies.
 
 Navigation
 ======
