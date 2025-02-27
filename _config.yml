@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Cai Xinyu"
   pronouns         : "he/ him"  # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Cai Xinyu is a Research Fellow at SUTD specializing in UAV development and control. His work focuses on scalable, adaptive, and reconfigurable aerial vehicles, including high-efficiency aerial robots with record power loading."
+  location         : "Singapore"
+  employer         : "Singapore University and Technology and Design"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xinyu_cai@sutd.edu.sg" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
