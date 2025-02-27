@@ -13,7 +13,7 @@ title                    : "Cai Xinyu | Aerial Robotics & UAV Research"
 title_separator          : "-"
 name                     : &name "Cai Xinyu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://git-caixinyu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "git-caixinyu.github.io"
 
