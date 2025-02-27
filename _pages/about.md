@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a Postdoctoral Research Fellow in the Engineering Product Development (EPD) Pillar at the Singapore University of Technology and Design (SUTD). I hold a B.S. (2015), M.Phil. (2020), and Ph.D. (2024), with a research focus on underactuated aerial robotic systems, nature-inspired UAVs, and sustainable aerial technologies. My work explores innovative designs for scalable, adaptive, and reconfigurable aerial vehicles.
 
-A data-driven personal website
+Project Highlights
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
