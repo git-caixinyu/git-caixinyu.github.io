@@ -28,14 +28,14 @@ author:
   bio              : "Cai Xinyu is a Research Fellow at SUTD specializing in UAV development and control. His work focuses on scalable, adaptive, and reconfigurable aerial vehicles, including high-efficiency aerial robots with record power loading."
   location         : "Singapore"
   employer         : "Singapore University and Technology and Design"
-  uri              : # URL
+  #uri              : # URL
   email            : "xinyu_cai@sutd.edu.sg" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
   #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   #impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7986-7007"
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #researchgate     : # URL
