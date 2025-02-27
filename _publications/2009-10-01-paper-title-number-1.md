@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Cooperative Modular Single Actuator Monocopters Capable of Controlled Passive Separation"
 collection: publications
 category: manuscripts
 date: 2009-10-01
-venue: 'Journal 1'
+venue: '2022 International Conference on Robotics and Automation (ICRA)'
 citation: xinyu cai
 ---
